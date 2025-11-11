@@ -1,0 +1,6 @@
+C:\Users\HONOR\C-DEATH\C-DEATH\C-DEATH\bin\Debug\C_DEATH.exe
+C:\Users\HONOR\C-DEATH\C-DEATH\C-DEATH\bin\Debug\C_DEATH.pdb
+C:\Users\HONOR\C-DEATH\C-DEATH\C-DEATH\obj\Debug\C-DEATH.csproj.AssemblyReference.cache
+C:\Users\HONOR\C-DEATH\C-DEATH\C-DEATH\obj\Debug\C-DEATH.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\C-DEATH\C-DEATH\C-DEATH\obj\Debug\C_DEATH.exe
+C:\Users\HONOR\C-DEATH\C-DEATH\C-DEATH\obj\Debug\C_DEATH.pdb
