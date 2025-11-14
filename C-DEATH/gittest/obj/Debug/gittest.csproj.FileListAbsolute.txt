@@ -1,0 +1,6 @@
+C:\Users\HONOR\C-DEATH\C-DEATH\gittest\bin\Debug\gittest.exe
+C:\Users\HONOR\C-DEATH\C-DEATH\gittest\bin\Debug\gittest.pdb
+C:\Users\HONOR\C-DEATH\C-DEATH\gittest\obj\Debug\gittest.csproj.AssemblyReference.cache
+C:\Users\HONOR\C-DEATH\C-DEATH\gittest\obj\Debug\gittest.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\C-DEATH\C-DEATH\gittest\obj\Debug\gittest.exe
+C:\Users\HONOR\C-DEATH\C-DEATH\gittest\obj\Debug\gittest.pdb
