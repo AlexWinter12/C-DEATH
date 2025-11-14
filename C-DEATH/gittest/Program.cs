@@ -1,9 +1,22 @@
-namespace gittest
+using System;
+
+class Program
 {
-    internal class Program
+    static void Main()
     {
-        public static void Main(string[] args)
+        Console.Write("Введите число: ");
+        int number = int.Parse(Console.ReadLine());
+
+        if (number % 2 == 0)
         {
+            Console.WriteLine("Число чётное!");
         }
+        else
+        {
+            Console.WriteLine("Число нечётное!");
+        }
+
+        Console.WriteLine("Нажмите любую клавишу, чтобы выйти...");
+        Console.ReadKey(); // ← ждёт, пока пользователь нажмёт клавишу
     }
 }
