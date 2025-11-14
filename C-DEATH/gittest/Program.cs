@@ -17,6 +17,6 @@ class Program
         }
 
         Console.WriteLine("Нажмите любую клавишу, чтобы выйти...");
-        Console.ReadKey(); // ← ждёт, пока пользователь нажмёт клавишу
+        Console.ReadKey(); 
     }
 }
