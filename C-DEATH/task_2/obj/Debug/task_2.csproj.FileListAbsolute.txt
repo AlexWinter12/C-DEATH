@@ -1,0 +1,6 @@
+C:\Users\HONOR\C-DEATH\C-DEATH\task_2\bin\Debug\task_2.exe
+C:\Users\HONOR\C-DEATH\C-DEATH\task_2\bin\Debug\task_2.pdb
+C:\Users\HONOR\C-DEATH\C-DEATH\task_2\obj\Debug\task_2.csproj.AssemblyReference.cache
+C:\Users\HONOR\C-DEATH\C-DEATH\task_2\obj\Debug\task_2.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\C-DEATH\C-DEATH\task_2\obj\Debug\task_2.exe
+C:\Users\HONOR\C-DEATH\C-DEATH\task_2\obj\Debug\task_2.pdb
