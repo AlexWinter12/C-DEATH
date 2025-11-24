@@ -5,7 +5,7 @@ namespace OddNumbersFilter
 {
     public class OddNumbers
     {
-        public IEnumerable<int> GetOdd(ICollection<int> nums)
+        public IEnumerable<int> GetOdd(ICollection<int>? nums)
         {
             if (nums == null)
             {
