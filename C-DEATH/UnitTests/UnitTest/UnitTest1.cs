@@ -4,8 +4,7 @@ public class OddNumbersTest
 {
     //Обычный набор
     [Fact]
-    public void 
-        CheckRegularSet()
+    public void GetOdd_ReturnsOddPositive()
     {
         // Arrange
         var nums = new[] { 1, 2, 3, 4, 5 };
@@ -21,7 +20,7 @@ public class OddNumbersTest
     
     //Набор с отрицательными 
     [Fact]
-    public void CheckRegular_set_Negative()
+    public void GetOdd_ReturnsOddPositiveAndNegative()
     
     {   // Arrange
         var nums = new[] { 1, 2, -4, -5, 6 };
@@ -37,7 +36,7 @@ public class OddNumbersTest
     
     //Только отрицательные
     [Fact]
-    public void CheckNegativeSet()
+    public void GetOdd_ReturnsOddNegative()
     {
         //Arrange
         var nums = new[] {-3,-7,-9};
@@ -53,7 +52,7 @@ public class OddNumbersTest
 
     //Null
     [Fact]
-    public void CheckNull()
+    public void GetOdd_ReturnsAnEmptyList_CheckForNull()
     {
         //Arrange
         var filter = new OddNumbers();
