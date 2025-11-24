@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ASMDSAjCa4c=",
+  "dgSpecHash": "mU4QISvHiLs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HONOR\\C-DEATH\\C-DEATH\\UnitTests\\UnitTest\\UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\HONOR\\C-DEATH\\C-DEATH\\UnitTests\\OddNumbersFilter\\OddNumbersFilter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HONOR\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\HONOR\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",

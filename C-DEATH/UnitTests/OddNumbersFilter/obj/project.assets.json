@@ -935,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HONOR\\C-DEATH\\C-DEATH\\UnitTests\\UnitTest\\UnitTest.csproj",
-      "projectName": "UnitTest",
-      "projectPath": "C:\\Users\\HONOR\\C-DEATH\\C-DEATH\\UnitTests\\UnitTest\\UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\HONOR\\C-DEATH\\C-DEATH\\UnitTests\\OddNumbersFilter\\OddNumbersFilter.csproj",
+      "projectName": "OddNumbersFilter",
+      "projectPath": "C:\\Users\\HONOR\\C-DEATH\\C-DEATH\\UnitTests\\OddNumbersFilter\\OddNumbersFilter.csproj",
       "packagesPath": "C:\\Users\\HONOR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HONOR\\C-DEATH\\C-DEATH\\UnitTests\\UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\HONOR\\C-DEATH\\C-DEATH\\UnitTests\\OddNumbersFilter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HONOR\\AppData\\Roaming\\NuGet\\NuGet.Config"
