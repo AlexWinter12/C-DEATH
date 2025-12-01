@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PositiveNumbersFilter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2c02e2204470748e00230f21d5d87b2a227d739")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d90b758c8b3071ccffd792e10eeddd137c782e44")]
 [assembly: System.Reflection.AssemblyProductAttribute("PositiveNumbersFilter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PositiveNumbersFilter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

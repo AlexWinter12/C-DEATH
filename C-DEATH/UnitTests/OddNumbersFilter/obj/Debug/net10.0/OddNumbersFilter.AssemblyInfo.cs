@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OddNumbersFilter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38b5b6066ffa21c611ec5c482fb8b31f741d531a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d90b758c8b3071ccffd792e10eeddd137c782e44")]
 [assembly: System.Reflection.AssemblyProductAttribute("OddNumbersFilter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OddNumbersFilter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

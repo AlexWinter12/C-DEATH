@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrderOfElementsFilter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68b42162b0a3948044f558704c7d009f57e6efca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d90b758c8b3071ccffd792e10eeddd137c782e44")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrderOfElementsFilter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrderOfElementsFilter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
