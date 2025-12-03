@@ -135,3 +135,55 @@ namespace MethodGroupby
         }
     }
 }
+
+namespace MethodLeftOuterJoin
+{
+    public sealed record Student
+    {
+        public required Guid Id { get; init; }
+        public required string FullName { get; init; }
+    }
+
+    public sealed record Course
+    {
+        public required Guid Id { get; init; }
+        public required string Title { get; init; }
+        public required Guid StudentId { get; init; }
+    }
+
+    public class LeftOuterJoin
+    {
+        public List<(Student Student, List<Course> Courses)> GetStudentsWithCourses(
+            ICollection<Student> students,
+            ICollection<Course> courses)
+        {
+            return students.GroupJoin(
+                courses,
+                s => s.Id,
+                c => c.StudentId,
+                (s, sc) => (Student: s, StudentCourses: sc.ToList())
+            ).ToList();
+        }
+
+    }
+}
+namespace MethodDistinctBy
+{
+    public sealed record User
+    {
+        public required Guid Id { get; init; }
+        public required int Age { get; init; }
+        public string? Name { get; init; }
+    }
+
+    public class DistinctBy
+    {
+        public ICollection<User> DistinctByIdUsers(ICollection<User> users)
+        {
+            return users
+                .DistinctBy(u => u.Id)
+                .ToList();
+        }
+
+    }
+}
