@@ -13,7 +13,7 @@ public class MethodDistinctByTest
         {
             new User { Id = id, Age = 1, Name = "User1" },
             new User { Id = id, Age = 2, Name = "User2" },
-            new User { Id = Guid.NewGuid(), Age = 2, Name = "User2" },
+            new User { Id = Guid.NewGuid(), Age = 2, Name = "User3" },
         };
             
          // act 
