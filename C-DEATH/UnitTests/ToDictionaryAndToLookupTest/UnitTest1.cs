@@ -57,7 +57,6 @@ public class ToDictionaryAndToLookupTest
             Assert.Equal(2, result.Count());
             Assert.Equal(2, result[52].Count());
             Assert.Single(result[21]);
-
             Assert.Contains(result[52], u => u.Name == "User1");
             Assert.Contains(result[52], u => u.Name == "User3");
         }
